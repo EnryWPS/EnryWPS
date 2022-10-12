@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnryWPS
-- 🌱 I’m currently learning Kotlin
+- 🌱 Intermediate software developer developing on Kotlin
 - 📫 How to reach me: enry.v@whitespowersports.com
 
 
